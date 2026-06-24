@@ -1,4 +1,4 @@
-# 🧮 Calculadora de Mesa - Python & Tkinter
+# 🧮 Calculadora de Celular - Python & Tkinter
 
 Este é um projeto de uma calculadora de mesa moderna, responsiva e robusta, desenvolvida inteiramente em Python utilizando a biblioteca gráfica padrão `tkinter`. 
 
