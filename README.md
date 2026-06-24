@@ -1,6 +1,6 @@
 # 🧮 Calculadora de Celular - Python & Tkinter
 
-Este é um projeto de uma calculadora de mesa moderna, responsiva e robusta, desenvolvida inteiramente em Python utilizando a biblioteca gráfica padrão `tkinter`. 
+Este é um projeto de uma calculadora responsiva, desenvolvida inteiramente em Python utilizando a biblioteca gráfica padrão `tkinter`. 
 
 O projeto foi construído com foco em conceitos de manipulação de estados em tempo de execução, design de interface do usuário (UI/UX) nativa e tratamento preventivo de exceções matemáticas.
 
